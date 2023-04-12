@@ -5,6 +5,7 @@ import {Footer} from "./MyComponents/Footer";
 function App() {
   const onDelete = ()=>{
     console.log("I am ondelete")
+    
   }
 
   let todos=[
